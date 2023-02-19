@@ -1,1 +1,1 @@
-# Numpy-master
+Repository for recording NumPy learning
