@@ -1,1 +1,1 @@
-Repository for recording NumPy learning
+Repository for recording Data Analysis learning
